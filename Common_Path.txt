@@ -1,0 +1,18 @@
+\Advanced IP Scanner 2
+\Advanced IP Scanner
+\AppData\Local\Temp\
+\AppData\Local\Temp
+\ProgramData\
+\windows\temp\
+\windows\temp
+\users\public\
+\users\public
+\winodws\tasks\
+\Downloads\
+\Downloads
+\AppData\Local\Temp
+\AppData\Roaming\Microsoft\windows\start menu\programs\statup
+\Windows\Help\
+\Windows\Debug\
+\Windows\SysWOW64\config\systemprofile\AppData\Roaming\Microsoft\Windows\
+\windows\svchost.exe

@@ -1,0 +1,7 @@
+.exe
+.zip
+.7z
+.tar
+.rar
+.msi
+.lnk

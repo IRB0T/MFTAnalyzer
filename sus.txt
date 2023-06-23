@@ -1,0 +1,36 @@
+netscanold.exe
+adfind.exe
+CredentialsFileView.exe
+Advanced IP Scanner.exe
+soft.exe
+svchost.exe
+HideUL.exe
+rms.host.7.1.2.0.exe
+lansearchpro_setup.exe
+Tcpview.exe
+TreeSize.exe
+Wireshark.exe
+advanced_port_scanner.exe
+eventlog rdp.exe
+advanced_ip_scanner.exe
+AR.exe
+scan.exe
+ip_scan_en_us_Release_2.5.3850.msi
+any.bat
+regedit_minimal.bat
+SMBExec.py
+WMIExec.py
+sam
+security
+system
+system.zip
+sam.zip
+security.zip
+lsass.zip
+lsass.dmp
+svc.dmp
+svchost.dmp
+svchost.dmp.lnk
+AADInternals
+Impacket
+Mimikatz
